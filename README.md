@@ -24,9 +24,11 @@ Our second game, is word basedspeed typing facility.
 The game keeps on presenting somewords and the player has to type as many words as possible under 60seconds.
 
 
-## User Interface
+<!-- ## User Interface
 
 __Landing Page :__
+![image](https://github.com/Richa99/Typing_Mania/assets/49717733/3df89a0e-54df-49ad-8685-1e4cfd9b57ee)
+
 
 ![image](https://github.com/Richa99/Typing_Mania/assets/49717733/9eacb0bf-0e3d-41c5-996b-ea7056c59957)
 ![image](https://github.com/Richa99/Typing_Mania/assets/49717733/d7ba8ec4-cdb0-4a5f-9ed7-df27326e8889)
@@ -39,7 +41,7 @@ __Typing Master Game__
 __Word Game:__
 
 ![image](https://github.com/Richa99/Typing_Mania/assets/49717733/6d4df973-dc3d-42ef-a850-a6441cf384a2)
-![image](https://github.com/Richa99/Typing_Mania/assets/49717733/a7c6ec3b-5816-42fc-b4fc-e81f7e5b29a4)
+![image](https://github.com/Richa99/Typing_Mania/assets/49717733/a7c6ec3b-5816-42fc-b4fc-e81f7e5b29a4) -->
 
 
 
