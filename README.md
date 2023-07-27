@@ -29,13 +29,19 @@ The game keeps on presenting somewords and the player has to type as many words 
 __Landing Page :__
 ![image](https://github.com/Richa99/Typing_Mania/assets/49717733/c6767edc-4d29-4a27-81f1-03868bc238c8)
 ![image](https://github.com/Richa99/Typing_Mania/assets/49717733/ef63eb46-fd58-4a80-96e5-9e1b7dc4ec6e)
+![image](https://github.com/Richa99/Typing_Mania/assets/49717733/7b159a1c-d011-4e9d-ae19-671d55078441)
+![image](https://github.com/Richa99/Typing_Mania/assets/49717733/fbf5b1bc-207f-4b29-93ee-241bd242e7cd)
 
 
 __Typing Master Game__
 ![image](https://github.com/Richa99/Typing_Mania/assets/49717733/0d14e4a8-2ac2-41c3-bd22-5882cad9b777)
+![image](https://github.com/Richa99/Typing_Mania/assets/49717733/c1cd7e6e-262c-4591-846d-2f256a9c684d)
+
 
 __Word Game:__
 ![image](https://github.com/Richa99/Typing_Mania/assets/49717733/ba5fb1c2-b1e1-4a12-8e8a-ee27220b9043)
+![image](https://github.com/Richa99/Typing_Mania/assets/49717733/65c9bb8f-8795-4652-9f61-afd5385ca765)
+
 
 
 
